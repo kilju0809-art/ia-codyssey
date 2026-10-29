@@ -1,2 +1,8 @@
 # ia-codyssey
-Github과 Codyssey를 연동하기 위해 만들어진 Repository입니다.
+
+1. 프로젝트 개요
+- 이 프로젝트는 코디세이 입학연수과정 개발환경 구축 프로젝입니다.
+
+2. 실행환경
+- OS: Windows 11 Pro
+- 터미널: 명령프롬프
